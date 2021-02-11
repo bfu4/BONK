@@ -1,6 +1,7 @@
 # BONK
 *simple spigot library easy plugin setup for when lazy*
-[![](https://jitpack.io/v/bfu4/BONK.svg)](https://jitpack.io/#bfu4/BONK)
+
+[![](https://jitpack.io/v/bfu4/BONK.svg)](https://jitpack.io/#bfu4/BONK)  [![License: MIT](https://img.shields.io/badge/License-MIT-pink.svg)](https://opensource.org/licenses/MIT)
 <hr />
 
 ## As a dependency
