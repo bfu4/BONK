@@ -1,6 +1,6 @@
 # BONK
 *simple spigot library easy plugin setup for when lazy*
-
+[![](https://jitpack.io/v/bfu4/BONK.svg)](https://jitpack.io/#bfu4/BONK)
 <hr />
 
 ## As a dependency
@@ -20,6 +20,6 @@
 <dependency>
 	<groupId>com.github.bfu4</groupId>
 	<artifactId>BONK</artifactId>
-	<version>1.0</version>
+	<version>LATEST</version>
 </dependency>
 ```
