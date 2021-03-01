@@ -83,6 +83,10 @@ public class BasePlayer implements ServerOperator {
       return sender.isOp();
    }
 
+   public CommandSender getSender() {
+      return sender;
+   }
+
    @Override
    public void setOp(boolean b) {
       sender.setOp(b);
